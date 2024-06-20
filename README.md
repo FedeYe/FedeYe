@@ -7,9 +7,9 @@
 </p>
 
 
-Currently a Computer Science Student 🤖 at the University of Padua 
+<p align='center'>Currently a Computer Science Student 🤖 at the University of Padua</p> 
 
-<img src="https://github-readme-stats-five-blue-15.vercel.app/api?username=FedeYe&theme=cobalt&show=prs_merged,prs_merged_percentage" />
+<img align='center' src="https://github-readme-stats-five-blue-15.vercel.app/api?username=FedeYe&theme=cobalt&show=prs_merged,prs_merged_percentage" />
 
 <!--
 **FedeYe/FedeYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
