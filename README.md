@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello there, I'm Federico 👋
+<a href="https://www.linkedin.com/in/tao-ren-federico-ye-48b581300/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a>&nbsp;&nbsp;
+
+Currently a Computer Science Student 🤖 at the University of Padua 
+
+<img src="https://github-readme-stats-five-blue-15.vercel.app/api?username=FedeYe&theme=cobalt&show=prs_merged,prs_merged_percentage" />
 
 <!--
 **FedeYe/FedeYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
