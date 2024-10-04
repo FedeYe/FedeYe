@@ -8,8 +8,10 @@
 
 
 <p align='center'>
-    Currently a Computer Science Student 🤖 at the University of Padua
+    🎓 Bachelor’s Degree in Computer Science from University of Padua <br>
+    🤖 Currently a master’s student in Artificial Intelligence at Polytechnic University of Milan
 </p>
+    
 
 <p align='center'>
     <img src="https://github-readme-stats-five-blue-15.vercel.app/api?username=FedeYe&theme=midnight-purple&show=prs_merged,prs_merged_percentage" />
