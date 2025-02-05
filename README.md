@@ -8,8 +8,7 @@
 
 
 <p align='center'>
-    🎓 Bachelor’s Degree in Computer Science from University of Padua <br>
-    🤖 Currently a master’s student in Artificial Intelligence at Polytechnic University of Milan
+    🎓 Bachelor’s Degree in Computer Science from University of Padua
 </p>
     
 
